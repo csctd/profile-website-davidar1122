@@ -42,3 +42,10 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+
+ # Design
+ I want to be dark with a couple of colors, have dropdowns, have a link to my resume, Info about my self to the left, experince in the middle and link and more imfo to the rigt like contact information.
+ # Accessibility 
+Have an option to read everything outloud for peopel that cant see
+ Have an uption to go word by word highlited by a press of a spacebar if you cant see that well
+   
