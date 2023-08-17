@@ -1,9 +1,12 @@
-# My Profile 
+# My information
 
-A short introduction for the top of your main page
+My name is ... curenetntly attending URI
+
+My contact informtion...
+
+Click on the Pecha Kucha for picturees of how my TD experince was.
 
 
-More content you want on your page
 
 
 
